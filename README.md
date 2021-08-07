@@ -9,6 +9,7 @@ Check this: https://nyyn.pl
 Socials:
 
 https://github.com/nyyn666
+<br>
 https://www.instagram.com/nyyn666/
 https://twitter.com/nyyn666
 https://mstdn.social/@nyyn
