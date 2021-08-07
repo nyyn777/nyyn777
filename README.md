@@ -1,16 +1,16 @@
 👋 Hi, I’m <b>@nyyn666!</b> <br>
 I am Computer Guy from <b>Poland.</b><br>
 I'm currently in secondary school with an <b>IT profile.</b><br> 
-I have been playing computer games since I was a child. In 016>, I created my first website. 
+I have been playing computer games since I was a <b>child</b>. In <b>2016</b>, I created my <b>first website</b>. 
 <br>
 <br>
-Currently, i deal with encryption and security on Linux. I learned .html, .css, .lua, and basic .js. I'm also FiveM Server Developer.
+Currently, i deal with <b>encryption</b> and <b>security</b> on <b>Linux</b>. I learned <b>.html, .css, .lua,</b> and <b>basic .js.</b> I'm also <b>FiveM Server Developer.</b>
 <br>
 <br>
-Check this: https://nyyn.pl
+<b>Check this:</b> https://nyyn.pl
 <br>
 <br>
-Socials:
+<b>Socials:</b>
 <br>
 <br>
 https://github.com/nyyn666
