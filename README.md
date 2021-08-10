@@ -7,7 +7,8 @@ I have been playing computer games since I was a <b>child</b>. In <b>2016</b>, I
 Currently, i deal with <b>encryption</b> and <b>security</b> on <b>Linux</b>. I learned <b>.html, .css, .lua,</b> and <b>basic .js.</b> I'm also <b>FiveM Server Developer.</b>
 <br>
 <br>
-<b>Check this:</b> https://nyyn.pl
+<b>My website:</b> https://nyyn.pl
+<b>My discord community server:</b> http://discord.com/invite/rfHMPtATHu
 <br>
 <br>
 <b>Socials:</b>
