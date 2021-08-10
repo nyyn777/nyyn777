@@ -8,6 +8,7 @@ Currently, i deal with <b>encryption</b> and <b>security</b> on <b>Linux</b>. I 
 <br>
 <br>
 <b>My website:</b> https://nyyn.pl
+<br>
 <b>My discord community server:</b> http://discord.com/invite/rfHMPtATHu
 <br>
 <br>
