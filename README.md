@@ -1,36 +1,14 @@
-#<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+nyyn." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+nyyn." alt="Typing SVG" /></a>
 
-👋 Hi, I’m <b>@nyyn666!</b> <br>
-I am Computer Guy from <b>Poland.</b><br>
-I'm currently in secondary school with an <b>IT profile.</b><br> 
-I have been playing computer games since I was a <b>child</b>. In <b>2016</b>, I created my <b>first website</b>. 
-<br>
-<br>
-Currently, i deal with <b>encryption</b> and <b>security</b> on <b>Linux</b>. I learned <b>.html, .css, .lua,</b> and <b>basic .js.</b> I'm also <b>FiveM Server Developer.</b>
-<br>
-<br>
-<b>My website:</b> https://nyyn.pl
-<br>
-<b>My discord community server:</b> http://discord.com/invite/rfHMPtATHu
-<br>
-<br>
-<b>Socials:</b>
-<br>
-<br>
-https://github.com/nyyn666
-<br>
-https://www.instagram.com/nyyn666/
-<br>
-https://twitter.com/nyyn666
-<br>
-https://mstdn.social/@nyyn
-<br>
-https://gitlab.com/nyyn666
-<br>
-https://keybase.io/nyyn666
-<br>
-https://www.youtube.com/c/nyyn666
-<br>
-https://twitch.tv/nyyn
-<br>
-https://steamcommunity.com/id/nyyn666/
+I am an 18-year-old developer based in Poland.
+
+- Pronouns: He/Him
+- Languages: Polish, English
+- Location: Poland, Central Europe
+- Email: [contact@nyyn.pl](mailto:contact@nyyn.pl)
+- PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
+- Website: [https://nyyn.pl/](https://nyyn.pl/)
+- Reach me: [https://nyyn.pl/contact.html](https://nyyn.pl/contact.html)
+
+##Tech Stack:
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,ps,php,sql,myqsl,vscode,sqllite,cloudflare,netlify)
