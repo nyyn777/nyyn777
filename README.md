@@ -1,3 +1,5 @@
+#<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello!+I'm+nyyn." alt="Typing SVG" /></a>
+
 👋 Hi, I’m <b>@nyyn666!</b> <br>
 I am Computer Guy from <b>Poland.</b><br>
 I'm currently in secondary school with an <b>IT profile.</b><br> 
