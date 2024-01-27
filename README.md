@@ -10,5 +10,4 @@ I am an 18-year-old developer based in Poland.
 - Website: [https://nyyn.pl/](https://nyyn.pl/)
 - Reach me: [https://nyyn.pl/contact.html](https://nyyn.pl/contact.html)
 
-##Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,ps,php,sql,myqsl,vscode,sqllite,cloudflare,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,ps,php,,myqsl,vscode,sqlite,cloudflare,netlify)
