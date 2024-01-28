@@ -2,7 +2,7 @@
 My name is **Nikodem**, also recognized as **nyyn**.
 I am an **18-year-old developer** based in **Poland**.
 
-<h3 align="left">About me:</h3>
+<h4 align="left">About me:</h4>
 
 - Pronouns: He/Him
 - Languages: Polish, English
@@ -12,6 +12,6 @@ I am an **18-year-old developer** based in **Poland**.
 - Website: [https://nyyn.pl/](https://nyyn.pl/)
 - Reach me: [https://nyyn.pl/contact.html](https://nyyn.pl/contact.html)
 
-<h3 align="left">Tech Stack:</h3>
+<h4 align="left">Tech Stack:</h4>
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,ps,php,mysql,sqlite,cloudflare,netlify)
