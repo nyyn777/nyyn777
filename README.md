@@ -2,7 +2,7 @@
 My name is **Nikodem**, also recognized as **nyyn**.
 I am an **18-year-old developer** based in **Poland**.
 
-<h4 align="left">About me</h4>
+<h4 align="left">About me:</h4>
 
 - Pronouns: He/Him
 - Languages: Polish, English
