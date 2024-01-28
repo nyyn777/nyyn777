@@ -14,4 +14,4 @@ I am an **18-year-old developer** based in **Poland**.
 
 <h2 align="left">Tech Stack:</h2>
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,ps,php,mysql,sqlite,cloudflare,netlify)
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,ps,php,mysql,cloudflare,netlify,cpp)
