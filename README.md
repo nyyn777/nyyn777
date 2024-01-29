@@ -11,7 +11,6 @@ I am an **18-year-old developer** based in **Poland**.
 - PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
 - Website: [https://nyyn.pl/](https://nyyn.pl/)
 - Reach me: [https://nyyn.pl/contact.html](https://nyyn.pl/contact.html)
-- Discord: nyyn
 
 <h2 align="left">Tech Stack:</h2>
 
