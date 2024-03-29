@@ -4,8 +4,8 @@ I am an **18-year-old developer** based in **Poland**.
 
 <h2 align="left">About me: </h2>
 
-<img src="[myImage.jpg](https://www.codedex.io/api/petStatus?user=nyyn)" alt="My Image">
-<span>This is my text</span>
+<img src="myImage.jpg" alt="My Image">
+<p>This is my text</p>
 
 - Pronouns: He/Him
 - Languages: Polish, English
