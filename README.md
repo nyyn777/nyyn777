@@ -4,33 +4,9 @@ I am an **18-year-old developer** based in **Poland**.
 
 <h2 align="left">About me: </h2>
 
-<div class="container">
-  - Pronouns: He/Him
-- Languages: Polish, English
-- Location: Poland, Central Europe
-- Email: [contact@nyyn.pl](mailto:contact@nyyn.pl)
-- PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
-- Website: [https://nyyn.pl/](https://nyyn.pl/)
-- Reach me: [https://nyyn.pl/contact.html](https://nyyn.pl/contact.html)
-  <div class="image" align="right">
-    - Pronouns: He/Him
-- Languages: Polish, English
-- Location: Poland, Central Europe
-- Email: [contact@nyyn.pl](mailto:contact@nyyn.pl)
-- PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
-- Website: [https://nyyn.pl/](https://nyyn.pl/)
-- Reach me: [https://nyyn.pl/contact.html](https://nyyn.pl/contact.html)
-    <img src="https://www.codedex.io/api/petStatus?user=nyyn">
-      </div>
-- Pronouns: He/Him
-- Languages: Polish, English
-- Location: Poland, Central Europe
-- Email: [contact@nyyn.pl](mailto:contact@nyyn.pl)
-- PGP Key: [3675 54DF 67E2 B162](https://keybase.io/nyyn666)
-- Website: [https://nyyn.pl/](https://nyyn.pl/)
-- Reach me: [https://nyyn.pl/contact.html](https://nyyn.pl/contact.html)
-    </div>
-</div>
+<img src="[myImage.jpg](https://www.codedex.io/api/petStatus?user=nyyn)" alt="My Image">
+<span>This is my text</span>
+
 - Pronouns: He/Him
 - Languages: Polish, English
 - Location: Poland, Central Europe
