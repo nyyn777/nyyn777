@@ -5,10 +5,10 @@ I am an **18-year-old developer** based in **Poland**.
 <h2 align="left">About me: </h2>
 
 <div class="container">
-  <div class="image">
+  <div class="image" align="right">
     <img src="https://www.codedex.io/api/petStatus?user=nyyn">
       </div>
-      <div class="text">
+      <div class="text" align="left">
     <h1>This is a beautiful picture.</h1>
     </div>
 </div>
