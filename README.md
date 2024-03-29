@@ -2,7 +2,7 @@
 My name is **Nikodem**, also recognized as **nyyn**.
 I am an **18-year-old developer** based in **Poland**.
 
-<h2 align="left">About me:</h2>
+<h2 align="left">About me:</h2> ![@nyyn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nyyn)
 
 - Pronouns: He/Him
 - Languages: Polish, English
