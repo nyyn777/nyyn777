@@ -16,4 +16,4 @@ I am an **18-year-old developer** based in **Poland**.
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,github,git,lua,typescript,py,ps,php,mysql,cloudflare,netlify,cpp)
 
-![@nyyn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nyyn) ![@nyyn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nyyn)
+![@nyyn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nyyn) ![@nyyn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nyyn) ![@nyyn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=nyyn)
